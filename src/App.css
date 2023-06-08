@@ -1,0 +1,16 @@
+.infoDropdown {
+    display: none;
+}
+
+.reservationDropdown {
+    display: none;
+}
+
+
+.infoDropdown-hover:hover .infoDropdown {
+    display: block !important;
+}
+
+.reservationDropdown-hover:hover .reservationDropdown {
+    display: block !important;
+}
